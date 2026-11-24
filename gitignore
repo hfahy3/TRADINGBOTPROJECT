@@ -1,0 +1,13 @@
+# secrets - never commit these
+kalshi_env.sh
+PRODKEY.txt
+*.pem
+*.key
+.env
+
+# account activity and logs
+*.csv
+*.log
+STOP
+
+__pycache__/
